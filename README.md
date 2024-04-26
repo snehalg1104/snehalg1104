@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalg1104&label=Profile%20views&color=0e75b6&style=flat" alt="snehalg1104" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DSA , AWS**
 
-- 💬 Ask me about **DSA , SQL , Machine Learning**
+- 💬 Ask me about **Frontend , SQL , Data Analysis**
 
 - 📫 How to reach me **snehalgaikwad7273@gmail.com**
 
