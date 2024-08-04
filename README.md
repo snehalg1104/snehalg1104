@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA , AWS**
 
-- 💬 Ask me about **Frontend , SQL , Data Analysis**
+- 💬 Ask me about **Frontend , Backend , Data Analysis**
 
 - 📫 How to reach me **snehalgaikwad7273@gmail.com**
 
